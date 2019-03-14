@@ -1,0 +1,56 @@
+Challenges:
+
+Make a basketball game:
+	Tasks:
+	Make controls to have sprite throw ball
+	Create basket that triggers score when hit
+	Make condition that wins the game
+	
+	HARD MODE:
+	Create Computer to play against
+		Either to block the ball or also take shots
+	Have ball be affected by gravity
+	
+Make Racing Game:
+	Tasks:
+	Make track to drive around
+	Make sprite only be able to drive on track
+	Make timer for track
+	Make a variable that keeps track of your laps
+	Make a condition that wins the race
+	
+	HARD MODE:
+	Create Computer players to play against
+	Make cars go different speeds depending on how long gas is pressed
+
+
+Make a Musical Keyboard using your keyboard:
+	Tasks:
+	Make the keys on your computer make different sounds
+	Create a song from your keyboard 
+	
+	HARD MODE:
+	Make a record and stop record feature
+	Make a looping feature
+	
+	
+Make a pong game:
+	Tasks:
+	Have two paddles
+		One computer
+		One player 
+		
+			or
+		
+		Two Players
+		
+	Create ball that moves from paddle to paddle
+	Keep track of score when goal is made
+	Make a condition that wins the game 
+	
+	HARD MODE:
+	Create different difficulties 
+	
+	
+
+	
